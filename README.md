@@ -33,10 +33,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,docker,ubuntu,jenkins,prometheus,grafana,kubernetes,nginx" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SonarQube_logo.png" alt="SonarQube" width="50px" />
-    <img src="https://www.trivy.io/images/trivy-logo.svg" alt="Trivy" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/kubernetes/website/static/images/logos/argo.png" alt="ArgoCD" width="50px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Rocky_Linux_full_logo.svg" alt="Rocky Linux" width="50px" />
 </div>
 
 <br/>
@@ -64,11 +60,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
