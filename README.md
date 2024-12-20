@@ -9,9 +9,9 @@
 <br/>
 
 <div align="center">
-⚡ I’m currently learning **Anything Related to DevSecOps**
+⚡ I’m currently learning Anything Related to DevSecOps
 
-💬 Ask me about **anything [here](https://github.com/rfkfz/rfkfz/issues)**
+💬 Ask me about anything
 
  </div>
  
